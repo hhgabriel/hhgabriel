@@ -24,7 +24,7 @@ Atualmente concentro meus estudos e projetos em:
         />
     </a>
     </a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/helder-gabriel-858a10200/">
+    <a href="www.linkedin.com/in/hhgabriel">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
