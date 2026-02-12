@@ -23,14 +23,8 @@ Atualmente concentro meus estudos e projetos em:
             src="https://custom-icon-badges.demolab.com/github/stars/SEUUSERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/SEUUSERNAME?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEUUSERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
-    <a href="https://www.linkedin.com/in/SEULINKEDIN">
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/helder-gabriel-858a10200/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
