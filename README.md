@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Helder Gabriel
 
-<!--
-**hhgabriel/hhgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python focado em backend, automação e APIs REST  
+🎓 Estudante de Cibersegurança  
+🚀 Em evolução constante buscando minha primeira oportunidade como dev  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento backend.  
+Tenho experiência prática com Python, criando APIs, automações e soluções de coleta de dados.
+
+Gosto de resolver problemas reais com código e estou sempre aprendendo novas tecnologias.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 Web Scraper
+Script para coleta automatizada de dados e exportação em CSV  
+👉 https://github.com/SEU-USUARIO/python-web-scraper
+
+---
+
+### 🔹 Automação de Arquivos
+Sistema de organização automática de arquivos por tipo  
+👉 https://github.com/SEU-USUARIO/file-automation-python
+
+---
+
+## 🛠️ Tecnologias
+
+- Python  
+- Flask  
+- SQL (SQLite)  
+- Git & GitHub  
+- Linux  
+- Web Scraping (BeautifulSoup, requests)  
+- Automação com Python  
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando:
+- Desenvolvimento backend avançado  
+- APIs com autenticação (JWT)  
+- Boas práticas e arquitetura  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/hhgabriel
+- Email: helder.gabriel751@gmail.com
+
+---
+
+## ⚡ Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor Python para aplicar meus conhecimentos em projetos reais e crescer profissionalmente.
+
+---
+
+⭐ Se gostou dos meus projetos, não esqueça de dar uma estrela!
