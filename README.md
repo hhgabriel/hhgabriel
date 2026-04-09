@@ -19,13 +19,13 @@ Gosto de resolver problemas reais com código e estou sempre aprendendo novas te
 
 ### 🔹 Web Scraper
 Script para coleta automatizada de dados e exportação em CSV  
-👉 https://github.com/SEU-USUARIO/python-web-scraper
+👉 https://github.com/hhgabriel/python-web-scraper
 
 ---
 
 ### 🔹 Automação de Arquivos
 Sistema de organização automática de arquivos por tipo  
-👉 https://github.com/SEU-USUARIO/file-automation-python
+👉 https://github.com/hhgabriel/file-automation-python
 
 ---
 
