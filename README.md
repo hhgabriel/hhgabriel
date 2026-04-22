@@ -15,20 +15,6 @@ Gosto de resolver problemas reais com código e estou sempre aprendendo novas te
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔹 Web Scraper
-Script para coleta automatizada de dados e exportação em CSV  
-👉 https://github.com/hhgabriel/python-web-scraper
-
----
-
-### 🔹 Automação de Arquivos
-Sistema de organização automática de arquivos por tipo  
-👉 https://github.com/hhgabriel/file-automation-python
-
----
-
 ## 🛠️ Tecnologias
 
 - Python  
