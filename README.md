@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=hhgabriel&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=aspiring%20penetration%20tester&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0d1117,100:00ff41&height=200&section=header&text=hhgabriel&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=aspiring%20penetration%20tester&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=700&height=50&lines=root%40kali%3A~%23+whoami;estudando+pentest+%26+seguran%C3%A7a+ofensiva;VulnHub+%7C+HackTheBox+%7C+TryHackMe;sempre+em+busca+do+pr%C3%B3ximo+shell..." alt="Typing SVG" />
 
@@ -61,6 +61,6 @@ Aberto a oportunidades em pentest / segurança ofensiva.
 <!-- Troque pelo seu link do LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:00ff41,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
