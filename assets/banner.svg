@@ -1,0 +1,53 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .rain { font-family: 'Courier New', monospace; font-size: 16px; fill: #00ff41; opacity: 0.55; }
+      .glow { font-family: 'Courier New', monospace; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" fill="#000000"/>
+
+  <!-- Matrix rain columns -->
+  <text class="rain" x="40"  y="0">10ロワン01ネノマ10ミムメ01モヤユ</text>
+  <text class="rain" x="40"  y="20">ヨラリ10ルレロ01ワヲン10アイウ01</text>
+  <text class="rain" x="40"  y="40">カキク10ケコサ01シスセ10ソタチ01</text>
+  <text class="rain" x="90"  y="-10">01010101ハヒフヘホ10101010</text>
+  <text class="rain" x="90"  y="10">マミムメモ01ヤユヨ10ラリルレロ</text>
+  <text class="rain" x="90"  y="30">01ワヲンアイ10ウエオ01カキクケ</text>
+  <text class="rain" x="760" y="-15">10アカサタナ01ハマヤラワ10ンン</text>
+  <text class="rain" x="760" y="5">01イキシチニ10ヒミイリヰ01ンン</text>
+  <text class="rain" x="760" y="25">10ウクスツヌ01フムユルウ10ンン</text>
+  <text class="rain" x="810" y="-5">01010シドアド01010ロンン1010</text>
+  <text class="rain" x="810" y="15">カキク10シスセ01タチツ10ナニヌ</text>
+
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0;0 220;0 0" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
+    <text class="rain" x="10" y="0">01アイウ10ハヒフ01タチツ10カキク01</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 -220;0 0;0 220" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+    <text class="rain" x="90" y="0">01010101ハヒフヘホ10101010カキク</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 220;0 0;0 -220" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
+    <text class="rain" x="760" y="0">10アカサタナ01ハマヤラワ10ンンマミ</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 -150;0 70;0 -150" keyTimes="0;0.5;1" dur="8s" repeatCount="indefinite"/>
+    <text class="rain" x="810" y="0">シドアド01010ロンン1010カキクケコ</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 180;0 -40;0 180" keyTimes="0;0.5;1" dur="9s" repeatCount="indefinite"/>
+    <text class="rain" x="40" y="0">10ロワン01ネノマ10ミムメ01モヤユ</text>
+  </g>
+
+  <!-- Glitch title: red/cyan offset copies + main green -->
+  <text class="glow" x="452" y="98" font-size="56" fill="#ff003c" opacity="0.6" text-anchor="middle">hhgabriel</text>
+  <text class="glow" x="448" y="102" font-size="56" fill="#00fff9" opacity="0.6" text-anchor="middle">hhgabriel</text>
+  <text class="glow" x="450" y="100" font-size="56" fill="#00ff41" text-anchor="middle">hhgabriel</text>
+
+  <text font-family="Courier New, monospace" x="450" y="135" font-size="18" fill="#00ff41" opacity="0.85" text-anchor="middle">&gt; aspiring penetration tester_</text>
+
+  <rect x="0" y="0" width="900" height="220" fill="none" stroke="#00ff41" stroke-opacity="0.25" stroke-width="2"/>
+</svg>
